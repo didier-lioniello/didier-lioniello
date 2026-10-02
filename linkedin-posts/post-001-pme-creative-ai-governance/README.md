@@ -7,6 +7,7 @@ Architecture de référence Applied AI Architect pour une PME d'identité de mar
 - `02_SCHEMA_GOUVERNANCE_PME_BRANDING.svg` — schéma vectoriel statique.
 - `02_SCHEMA_GOUVERNANCE_PME_BRANDING.png` — image complète du schéma.
 - `03_SCHEMA_GOUVERNANCE_PME_BRANDING_ANIME.html` — version web animée, sans vidéo.
+- `03_SCHEMA_GOUVERNANCE_PME_BRANDING_ANIME.gif` — animation autonome à téléverser sur LinkedIn.
 - `04_NOTE_GOUVERNANCE_PME_BRANDING.pdf` — schéma et explication en PDF.
 - `05_AUDIT_PREUVES_ET_PUBLICATION.md` — limites de preuve et vérification avant publication.
 
